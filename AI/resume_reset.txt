@@ -1,0 +1,40 @@
+I am a a qualified and professional Senior Machine Learning Engineer with 11 years of experience in
+developing Machine Learning projects.
+Having worked for several companies, as a distributed team member or leader, I have a strong ability in the
+various of advanced machine learning algorithms and libraries.
+Implemented 17+ big AI projects successfully and developed 30+ new important algorithms.
+
+
+
+-Developed molecular dynamics simulations using machine learning algorithms to
+identify protein-DNA interactions with up to 95% fidelity
+-Improved accuracy of simulation up to 30% using various algorithms.
+-Designed and completed analysis systems to extract information from large scale
+data.
+-Predicted product sales to within 2% by applying logistic regression model.
+
+
+
+-Designed, tested and deployed machine learning models for several projects
+related to marketing and gained about worth $10M in total.
+-Developed, improved and implemented the statistical modeling for time series
+analysis such as temperature-forecasting, prediction of stock price with Python.
+
+
+
+-Designed, tested and deployed machine learning models for several projects
+related to marketing and gained about worth $10M in total.
+Germany
+-Developed, improved and implemented the statistical modeling for time series
+analysis such as temperature-forecasting, prediction of stock price with Python.
+
+
+
+-Designed and executed well-engineered, easy-to-maintain, reliable, and bug-free
+code for various company applications in collaboration with other AI engineers,
+data scientists, programmers, and software personnel.
+-Analyzed datasets using appropriate statistical techniques and models (e.g. linear
+regression, logistic regression, polynomial regression, support vector
+machine,decision tree and random forest) to examine how two tests are potentially
+related as well as explain the effect of four demographic variables with Python,
+Scikit-learn, Pandas.
