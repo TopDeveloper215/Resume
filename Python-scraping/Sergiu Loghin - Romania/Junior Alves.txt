@@ -1,12 +1,12 @@
-Romania
+Brazil
 
-$25.00/hr
-
-
-Sergiu Loghin
+$35.00/hr
 
 
-Python & Web Scraping Expert
+Junior Alves
+
+
+Python & Web Scraping Expert | Automation
 
 Skills
 
@@ -24,10 +24,6 @@ Scrapy
 
 1990-04-15
 
-Sat Teisori, Comuna Bulbucata
 
-Giurgiu
-
-0788988094
 
 https://www.upwork.com/freelancers/~0129446c111882be9b/
