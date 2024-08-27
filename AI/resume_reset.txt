@@ -15,7 +15,7 @@ data.
 
 
 
--Designed, tested and deployed machine learning models for several projects
+-Designed, tested and deployed machine learning models for several projects 
 related to marketing and gained about worth $10M in total.
 -Developed, improved and implemented the statistical modeling for time series
 analysis such as temperature-forecasting, prediction of stock price with Python.
